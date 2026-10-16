@@ -20,6 +20,7 @@ Based on System.md.
 - Colour - TEXT (hex/...)
 - Picture - TEXT (file name for image)
 - ID - INT (autoincrement)
+
 **Goals**
 - Title - TEXT
 - Description - TEXT
@@ -28,6 +29,7 @@ Based on System.md.
 - ID - INT (autoincrement)
 - Life Goal ID - INT
 - Status - TEXT
+
 **Projects**
 - Title - TEXT
 - Description - TEXT
@@ -35,6 +37,7 @@ Based on System.md.
 - ID - int (autoincrement)
 - Goal ID - INT
 - Status - TEXT
+
 **Work Tasks**
 - Title - TEXT
 - Objectives - TEXT
