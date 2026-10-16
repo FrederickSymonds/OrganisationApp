@@ -51,10 +51,10 @@ See below, life goals and goals are joint.
 
 **Goals**
 Graph View, Life goals in centre and goals surrounding them, click for more details. They should be ellipse shape. When clicked on, full details on the right. The reason for this design choice, is to make it clear where each goal comes from, in a clear manner. They also don't change very frequently, so as stuck with the same goals for a long time, you can grow more accustomed to the layout.
-![Goal Page](https://github.com/FrederickSymonds/OrganisationApp/blob/main/design/images/ProjectManager1.jpg)
+![Goal Page Design](https://github.com/FrederickSymonds/OrganisationApp/blob/main/design/images/ProjectManager1.jpg)
 **Projects**
 Card view, however grouped by life goals, then by goals. Click for more details on the right. This was chosen, as there can be many projects on at a single time, and more information is displayable, and as project come and go, it's good to see critical information quickly, to know which one is which.
-![[ProjectManger2.jpg|403]]
+![Project Manager Design](https://github.com/FrederickSymonds/OrganisationApp/blob/main/design/images/ProjectManager2.jpg)
 **Work Tasks**
 Only viewable through project view. Next task in project viewable on card, but the rest must click on the card.
 
@@ -67,7 +67,7 @@ Only viewable through project view. Next task in project viewable on card, but t
 ## 2. Day Organiser
 **GUI**
 Similar to a normal calendar app, but with 1 day on it (Extension: see multiple days). It then fills it with routine tasks, and scheduled tasks, then allows for schedules/work tasks to be placed in, using a popup menu.
-![[DayOrganiser.jpg|466]]
+![Day Organiser Page Design](https://github.com/FrederickSymonds/OrganisationApp/blob/main/design/images/DayOrganiser.jpg)
 
 **Settings**
 - Sleep Times (Changes when day begins and ends)
@@ -105,7 +105,7 @@ Scheduled Tasks
 **GUI**
 Appears like a chat log, but your the only person on it. These can be short comments about a project, or a long summary of a day. It comes with a side panel for filtering, changing between edit and viewing mode (to be able to edit any viewable).
 
-![[ReviewSystem.jpg|461]]
+![Review Page Design](https://github.com/FrederickSymonds/OrganisationApp/blob/main/design/images/ReviewSystem.jpg)
 
 **Data Structure**
 Message
@@ -121,7 +121,7 @@ Message
 **GUI**
 Ordered list of rules, with most important near the top (can easily change order). Each rule is listed clearly, and has a days since last broken, and a 'I have broken' button, which will require a review message, entering why I broke it and what led up to it, to help prevent it in the future.
 
-![[RuleSystem.jpg|477]]
+![Rule System Page Design](https://github.com/FrederickSymonds/OrganisationApp/blob/main/design/images/RuleSystem.jpg)
 
 **Data Structure**
 Rule
