@@ -16,13 +16,28 @@ OrganisationApp consists of three interconnected systems:
 See System.md for a fuller conceptual model. See architecture.md for model plans.
 
 ## Purpose
-The purpose of this software is to organise someone's life through my system, in a way that reduces friction as much as possible, Ie, minimal effort for maximum rewards.
+The purpose of this software is to organise someone's life through my system, in a way that reduces friction as much as possible, (minimal effort for maximum rewards).
+
+## My Approach
+I'm going to be using python + customTkinter + sqlite3.
+
+Make sure you run:
+```
+pip install customtkinter
+```
 
 ## Status
 
 Currently in development.
 
-## Warning:
+## Acknowledgements
+
+This project is built using the following open-source software:
+* [Python](https://python.org) (PSF License Agreement)
+* [CustomTkinter](https://github.com) - Used for the modern GUI design (MIT License)
+* Built-in `sqlite3` module for database management.
+
+## Licensing:
 The code in this repository is licensed under the MIT License (see the root [LICENSE](LICENSE) file).
 
 However, all written work and images in the `/design` directory are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). 
