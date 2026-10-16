@@ -51,7 +51,7 @@ See below, life goals and goals are joint.
 
 **Goals**
 Graph View, Life goals in centre and goals surrounding them, click for more details. They should be ellipse shape. When clicked on, full details on the right. The reason for this design choice, is to make it clear where each goal comes from, in a clear manner. They also don't change very frequently, so as stuck with the same goals for a long time, you can grow more accustomed to the layout.
-![[ProjectManager1.jpg|408]]
+![Goal Page](https://github.com/FrederickSymonds/OrganisationApp/blob/main/design/images/ProjectManager1.jpg)
 **Projects**
 Card view, however grouped by life goals, then by goals. Click for more details on the right. This was chosen, as there can be many projects on at a single time, and more information is displayable, and as project come and go, it's good to see critical information quickly, to know which one is which.
 ![[ProjectManger2.jpg|403]]
