@@ -1,7 +1,6 @@
 # OrganisationApp
 
-OrganisationApp is a personal organisation system built around the idea
-that life requires direction, and so life is is aimed at some higher goal.
+OrganisationApp is a personal organisation system built around the idea that life requires direction, and so life is aimed at some higher goal.
 
 ## The System
 
